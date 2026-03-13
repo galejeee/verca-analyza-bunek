@@ -1,0 +1,44 @@
+{
+    "SampleA": {
+        "linear_growth": true,
+        "growth_rate": 2,
+        "min": 10,
+        "max": 16,
+        "average": 13.0
+    },
+    "SampleB": {
+        "linear_growth": true,
+        "growth_rate": 2,
+        "min": 5,
+        "max": 11,
+        "average": 8.0
+    },
+    "SampleC": {
+        "linear_growth": false,
+        "growth_rate": null,
+        "min": 3,
+        "max": 8,
+        "average": 5.25
+    },
+    "SampleD": {
+        "linear_growth": true,
+        "growth_rate": 2,
+        "min": 20,
+        "max": 26,
+        "average": 23.0
+    },
+    "SampleE": {
+        "linear_growth": false,
+        "growth_rate": null,
+        "min": 16,
+        "max": 20,
+        "average": 17.75
+    },
+    "SampleF": {
+        "linear_growth": true,
+        "growth_rate": 2,
+        "min": 26,
+        "max": 32,
+        "average": 29.0
+    }
+}
